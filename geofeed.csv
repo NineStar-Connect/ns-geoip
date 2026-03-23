@@ -1,5 +1,5 @@
 # ns-api geofeed (RFC 8805)
-# generated_at: 2026-03-23T19:35:12.335Z
+# generated_at: 2026-03-23T20:01:40.314Z
 # columns: ip_prefix,alpha2code,region,city,postal_code
 # note: postal_code is intentionally left blank
 168.100.180.208/28,US,US-IN,Franklin,
