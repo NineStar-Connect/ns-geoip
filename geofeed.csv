@@ -1,8 +1,8 @@
 # ns-api geofeed (RFC 8805)
-# generated_at: 2026-10-19T19:33:47.603Z
+# generated_at: 2026-10-20T12:38:00.450Z
 # columns: ip_prefix,alpha2code,region,city,postal_code
 # note: postal_code is intentionally left blank
-208.70.40.240/28,US,US-IN,"New Castle, IN",
+208.70.40.240/28,US,US-IN,New Castle,
 64.184.12.128/25,US,US-IN,Franklin,
 64.184.12.0/25,US,US-IN,Franklin,
 64.184.10.0/23,US,US-IN,McCordsville,
